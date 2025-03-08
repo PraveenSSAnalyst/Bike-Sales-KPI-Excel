@@ -3,6 +3,7 @@
 This repository contains an Excel Dashboard for analyzing Bike Sales Data, focusing on data cleaning, outlier handling, and key sales insights.
 
 🔹 Key Features:
+
 ✔ Data Cleaning – Structured and refined raw data for accuracy
 
 ✔ Backup of Raw Data – Ensured data integrity with a separate backup
